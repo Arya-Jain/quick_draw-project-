@@ -1,0 +1,43 @@
+body{
+    background-color: aliceblue;
+}
+
+h1{
+    font:bold;
+    font-family: sans-serif;
+    background-color: aquamarine;  
+}
+
+#show_sketch{
+    float : right;
+    margin-right: 10px;
+}
+
+#sketch{
+  font-size: large;  
+}
+
+#confidence{
+  font-size: large;
+}
+
+#score{
+    margin-left: 20px;
+    font-size: 30px;
+    font: bold;
+    color:lightseagreen;
+    float:left;
+}
+
+#timer{
+    margin-right: 20px;
+    font-size: 30px;
+    font: bold;
+    color:lightseagreen;
+    float: right;
+}
+
+#name_sketch{
+    color:mediumvioletred;
+    font-size: 36px;
+}
