@@ -43,7 +43,7 @@ h1{
 }
 
 canvas{
-  
+    margin-top: 80px;
     border:5px solid white;
     border-radius:20px;
     box-shadow:5px 5px 5px grey;
@@ -58,4 +58,9 @@ canvas{
   from {box-shadow: 1px 1px 38px grey;}
   to {box-shadow: 1px 1px 38px white;}
 
-}  
+} 
+
+#btn{
+    
+    margin-top: 400;
+}
