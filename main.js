@@ -43,7 +43,7 @@ function draw(){
     }
 
     strokeWeight(10);
-     stroke("grey");
+     stroke("black");
 
      if(mouseIsPressed){
         line(pmouseX, pmouseY, mouseX, mouseY);
